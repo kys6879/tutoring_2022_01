@@ -9,6 +9,6 @@ void setup() {
 
 void draw() {
   background(255);
-  tint(#FFFF00,50);
-  image(image,width/2,height/2,300,300);
+  tint(#62D8A4,50);
+  image(image,width/2,height/2,375,449);
 }
